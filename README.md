@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Le Thanh Vu at EIVA GitHub stats](https://github-readme-stats.vercel.app/api?username=tvlEIVA&show_icons=true&theme=transparent)
 <!--
 **tvlEIVA/tvlEIVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
